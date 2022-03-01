@@ -4,6 +4,7 @@ Dockerized JFrog CLI
 
 - [JFrog Documentation](https://www.jfrog.com/confluence/display/CLI/JFrog+CLI#JFrogCLI-Downloadandinstallation)
 - [CLI for JFrog Artifactory](https://www.jfrog.com/confluence/display/CLI/CLI+for+JFrog+Artifactory)
+- [Artifactory Query Language](https://www.jfrog.com/confluence/display/JFROG/Artifactory+Query+Language)
 
 Various installations available at the [homepage](https://jfrog.com/getcli/).
 
