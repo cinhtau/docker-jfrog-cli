@@ -37,3 +37,4 @@ docker run -it --rm jfrog-cli /bin/bash
 ```
 
 - [Setup](docs/setup.md)
+- [Clean Up](docs/cleanup.md)
